@@ -1,3 +1,5 @@
+#DES
+
 import base32hex
 import hashlib
 from Crypto.Cipher import DES
