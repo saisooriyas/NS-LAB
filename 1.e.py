@@ -1,3 +1,5 @@
+#Rail Fence
+
 def encryptRailFence(text, key):
     rail = [['\n' for i in range(len(text))]
             for j in range(key)]
